@@ -60,7 +60,7 @@
 
 ### 2. EDA
 
-<img src = "Images/5. 상관.JPG" width = "1000" height = "450">
+<img src = "Images/5. 상관.JPG" width = "700" height = "450">
 
 - 콜택시 수요량과 높은 상관을 보이는 변수는 없었으나 그 중 교통량이 가장 높은 상관도를 보였음
 
