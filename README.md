@@ -106,11 +106,11 @@
 
 -증차 대수를 바꿔가며 대기시간 예측한 결과 30대 증차가 최상의 비용효과성을 가짐
 
-<p align = "center"><img src = "Images/10. 차고지.JPG" width = "600" height = "600"></p>
+<p align = "center"><img src = "Images/10. 차고지.JPG" width = "800" height = "600"></p>
 
 - 모델링을 통해 추가적으로 증설할 차고지 최적 입지로는 `하계 1동`이 선정됨
 
-<p align = "center"><img src = "Images/11. 실제.JPG" width = "600" height = "600"></p>
+<p align = "center"><img src = "Images/12. 실제.JPG" width = "800" height = "600"></p>
 
 - 이를 실제 공영주차장 데이터와 결합하여 표현하면 위와 같은 공영주차장에 장애인콜택시 차고지로 선정하는 것이 적절
 
