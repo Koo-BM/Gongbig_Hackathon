@@ -66,7 +66,7 @@
 
 ### 3. 수요량 예측 모델링
 
-<img src = "Images/6. 수요량.JPG" width = "1000" height = "400">
+<img src = "Images/6. 수요량.JPG" width = "700" height = "400">
 
 - 실제 수요량 데이터는 파란선 / XGBoost, CatBoost, LightGBM, 이들을 스태킹 앙상블한 모델은 나머지 선들임
 
@@ -76,7 +76,7 @@
 
 ### 4. 대기시간 예측 모델링
 
-<img src = "Images/7. 대기시간.JPG" width = "1000" height = "350">
+<img src = "Images/7. 대기 시간.JPG" width = "700" height = "350">
 
 - 대기시간을 예측한 모델로는 CatBoost를 활용함
 
