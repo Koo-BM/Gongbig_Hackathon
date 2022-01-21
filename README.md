@@ -60,13 +60,13 @@
 
 ### 2. EDA
 
-<img src = "Images/5. 상관.JPG" width = "1000" height = "400">
+<img src = "Images/5. 상관.JPG" width = "1000" height = "450">
 
 - 콜택시 수요량과 높은 상관을 보이는 변수는 없었으나 그 중 교통량이 가장 높은 상관도를 보였음
 
 ### 3. 수요량 예측 모델링
 
-<img src = "Images/6. 수요량.JPG" width = "1000" height = "350">
+<img src = "Images/6. 수요량.JPG" width = "1000" height = "400">
 
 - 실제 수요량 데이터는 파란선 / XGBoost, CatBoost, LightGBM, 이들을 스태킹 앙상블한 모델은 나머지 선들임
 
