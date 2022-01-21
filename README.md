@@ -16,7 +16,7 @@
 
 <h2>🚖 2. 분석 배경</h2>
 
-<p align = "center"><img src = "Images/1. 교통약자.JPG" width = "800" height = "400"></p>
+<p align = "center"><img src = "Images/1. 교통약자.JPG" width = "750" height = "400"></p>
 
 - 전체 인구 대비 교통약자의 비율이 지속적으로 증가하는 추세
 
