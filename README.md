@@ -88,7 +88,7 @@
 
 <h2>🚖 6. 분석 결과</h2>
 
-<p align = "center"><img src = "Images/8. 차량배치.JPG" width = "600" height = "600"></p>
+<p align = "center"><img src = "Images/8. 차량배치.JPG" width = "1000" height = "600"></p>
 
 - 1등 노원구
 
@@ -102,7 +102,7 @@
 
 - 수요와 공급의 균형을 맞춰 대기시간 감소 전망
 
-<img src = "Images/9. 증차.JPG" width = "1000" height = "400"></p>
+<img src = "Images/9. 증차.JPG" width = "700" height = "400"></p>
 
 -증차 대수를 바꿔가며 대기시간 예측한 결과 30대 증차가 최상의 비용효과성을 가짐
 
