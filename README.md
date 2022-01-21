@@ -16,11 +16,11 @@
 
 <h2>🚖 2. 분석 배경</h2>
 
-<p align = "center"><img src = "Images/1. 교통약자.JPG" width = "750" height = "400"></p>
+<p align = "center"><img src = "Images/1. 교통약자.JPG" width = "700" height = "400"></p>
 
 - 전체 인구 대비 교통약자의 비율이 지속적으로 증가하는 추세
 
-<img src = "Images/2. 워드클라우드.JPG" width = "400" height = "400">
+<p align = "center"><img src = "Images/2. 워드클라우드.JPG" width = "700" height = "400"></p>
 
 - 서울시 장애인콜택시 민원데이터를 크롤링하여 워드클라우드로 표현한 결과
 
